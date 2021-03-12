@@ -1,4 +1,7 @@
 /*Estilo da página index.html */
+body{
+    background-color: lightseagreen;
+}
 .center {
     text-align: center;
 }
