@@ -1,6 +1,10 @@
 /*Estilo da página index.html */
 body{
-    background-color: lightseagreen;
+    background-color: rgb(245, 255, 255);
+}
+.fonte{
+    font-style: arial;
+    font-size: 16pt;
 }
 .center {
     text-align: center;
@@ -58,8 +62,20 @@ body{
     align-items: center;
     justify-content: center
 }
+.display2 {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
 
 /*Estilo da página contato.html */
 .ml-50{
     margin-left: 50px;
+}
+
+/* Estilo da página doador.html */ 
+
+.img2{
+    width: 230px;
+    height: 230px;
 }
